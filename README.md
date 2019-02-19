@@ -1,2 +1,2 @@
 # TaskTavernPrototype
-An android project to organized family chores
+An android project to organize family chores
